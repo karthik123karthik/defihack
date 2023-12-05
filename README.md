@@ -1,6 +1,6 @@
 # Landly 
 
-## visit: https://defihack-nine.vercel.app/
+## visit: https://defihack-ten.vercel.app/about
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -28,9 +28,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### contract address
-- land contract - 0xF958C99Af17be1f661BC51548C114362E8069B1B
+- land contract - 0xf973e9c553919ef469f09ee6d07ac67f9489ecc8
 - nft contract -  0x51aec0ae85e218e681ef28c2675a1aca4e9e3976
-
 ### screen shots:
 
 <img width="959" alt="landlyone" src="https://github.com/karthik123karthik/Landly/assets/84716922/7e6b0a6b-ced7-4f71-a1e1-aeb37901ade5">
