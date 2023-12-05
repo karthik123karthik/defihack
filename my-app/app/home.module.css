@@ -1,0 +1,25 @@
+.container {
+    background: black;
+  }
+
+
+  /* @keyframes herobackchange {
+    0% {
+      @apply bg-homePageBackGroundColour2 bg-cover;
+    }
+  
+    25% {
+      @apply bg-homePageBackGroundColour3 bg-cover;
+    }
+  
+    50% {
+      @apply bg-homePageBackGroundColour4 bg-cover;
+    }
+    75% {
+      @apply bg-homePageBackGroundColour5 bg-cover;
+    }
+  
+    100% {
+      @apply bg-homePageBackGroundColour1 bg-cover;
+    }
+  } */

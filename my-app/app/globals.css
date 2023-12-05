@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@100&display=swap");
+
+.logo {
+  @apply md:flex-1 md:flex hidden;
+  font-family: "Sora", sans-serif;
+  font-size: 3rem;
+  color: #fbf8f0;
+  text-shadow: 5px 5px 40px #cbcbcb;
+}
+
+.navbar {
+  @apply mx-auto w-[90%]  p-3  flex flex-row;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Macan", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: white;
+  padding-top: 1.5%;
+  /* animation: 3s ease-in 10 forwards syncWithBackground;*/
+}
+
+.navItems {
+  @apply w-[80%] flex  flex-col justify-center items-center md:flex-row md:justify-between items-center mr-[0.2em];
+  cursor: pointer;
+}
+
+/* @keyframes syncWithBackground {
+  0% {
+    @apply bg-none text-black font-bold;
+  }
+  100% {
+    @apply bg-black text-white;
+  }
+} */
+
+
